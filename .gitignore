@@ -1,0 +1,6 @@
+env
+.ipynb_checkpoints
+Untitled.ipynb
+connectors/config.yaml
+connectors\\config.yaml
+token.pickle
